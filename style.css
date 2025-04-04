@@ -1,0 +1,12 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body {
+  background: linear-gradient(to right, #f6d365, #fda085);
+  color: #333;
+}
+/* Other styles... (kept short for demonstration) */
